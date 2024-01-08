@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EraKin575](https://github.com/EraKin575)
 
-- 📝 I regularly write articles on [Cloud and DevOps](Cloud and DevOps)
+- 📝 I regularly write articles on Cloud and DevOps
 
 - 💬 Ask me about **Go and DevOps**
 
