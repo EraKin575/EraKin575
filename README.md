@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tejasku66136866" target="blank"><img src="https://img.shields.io/twitter/follow/tejasku66136866?logo=twitter&style=for-the-badge" alt="tejasku66136866" /></a> </p>
 
-- 🔭 I’m currently working on [Keploy (Intern)](https://github.com/keploy)
+- 🔭 Former SDE Intern [Keploy (Intern)](https://github.com/keploy)
 
 - 🌱 I’m currently learning **DevOps and its related technlogies**
 
