@@ -10,7 +10,7 @@
 - 🔭 LFX Mentee@KubeEdge(Sept 2024- Dec 2024)
   
 - 🔭 Former SDE Intern [Keploy (Intern)](https://github.com/keploy)
-- 
+  
 - 🌱 I’m currently learning **DevOps and its related technlogies**
 
 - 👯 I’m looking to collaborate on **any open source projects**
