@@ -7,8 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/tejasku66136866" target="blank"><img src="https://img.shields.io/twitter/follow/tejasku66136866?logo=twitter&style=for-the-badge" alt="tejasku66136866" /></a> </p>
 
+- 🔭 LFX Mentee@KubeEdge(Sept 2024- Dec 2024)
+  
 - 🔭 Former SDE Intern [Keploy (Intern)](https://github.com/keploy)
-
+- 
 - 🌱 I’m currently learning **DevOps and its related technlogies**
 
 - 👯 I’m looking to collaborate on **any open source projects**
