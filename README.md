@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/tejasku66136866" target="blank"><img src="https://img.shields.io/twitter/follow/tejasku66136866?logo=twitter&style=for-the-badge" alt="tejasku66136866" /></a> </p>
 
+- SDE Intern@HackerRank
+
 - 🔭 LFX Mentee@KubeEdge(Sept 2024- Dec 2024)
   
 - 🔭 Former SDE Intern [Keploy (Intern)](https://github.com/keploy)
